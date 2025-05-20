@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "black-pond-f81a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1246b719-bd8a-4d72-80c2-7b9b20e9c603",
+      "database_name": "black-pond-f81a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
